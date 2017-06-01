@@ -10,7 +10,9 @@ brew install coreutils
 ## Configuration
 ```
 vim ~/.bash_profile
-sh quotes.sh
+
+# paste below command in .bash_profile
+sh <PATH to quotes.sh>
 ```
 
 PS: This consists of the quotes that I've been saving on Wunderlist everytime. Feel free to use it or edit the quotes file. Stay inspired! ✨
